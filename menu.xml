@@ -2,77 +2,77 @@
 <menu>
   <category name="Chesse Cake">
      <item>
-        <listing>Mango Cheese Cake</listing>
+        <option>Mango Cheese Cake</option>
         <price>4.25</price>
      </item>
      <item>
-        <listing>Lemon Cheese Cake</listing>
+        <option>Lemon Cheese Cake</option>
         <price>4.20</price>
      </item>
      <item>
-        <listing>Cookie Chesse Cake</listing>
+        <option>Cookie Chesse Cake</option>
         <price>4.25</price>
      </item>
 </category>
 <category name="Fresh Cake">
       <item>
-        <listing>Oreo Fresh Cake</listing>
+        <option>Oreo Fresh Cake</option>
         <price>4.80</price>
       </item>
       <item>
-        <listing>Red velvet Fresh Cake</listing>
+        <option>Red velvet Fresh Cake</option>
       <price>4.80</price>
       </item>
       <item>
-        <listing>Coccunt Fresh Cake</listing>
+        <option>Coccunt Fresh Cake</option>
       <price>4.80</price>
       </item>
 </category>
 <category name="Muffin">
       <item>
-         <listing>Corn Muffin</listing>
+         <option>Corn Muffin</option>
          <price>4.00</price>
       </item>
       <item>
-          <listing>Blueberry Muffin</listing>
+          <option>Blueberry Muffin</option>
           <price>4.00</price>
        </item>
 </category>
 <category name="Mousse">
        <item>
-          <listing>Mini Triple Chocolate Mousse</listing>
+          <option>Mini Triple Chocolate Mousse</option>
           <price>2.50</price>
        </item>
        <item>
-           <listing>Mini Raspberry Mousse</listing>
+           <option>Mini Raspberry Mousse</option>
            <price>2.50</price>
        </item>
  </category>
 <category name="Iced Cream">
        <item>
-            <listing>Mango</listing>
+            <option>Mango</option>
             <price>1.80</price>
        </item>
        <item>
-            <listing>Vanila</listing>
+            <option>Vanila</option>
             <price>1.80</price>
         </item>
         <item>
-            <listing>Chocolate</listing>
+            <option>Chocolate</option>
             <price>1.80</price>
         </item>
 </category>
 <category name="Drinks">
         <item>
-           <listing>Coke</listing>
+           <option>Coke</option>
         <price>1.50</price>
         </item>
         <item>
-           <listing>Lemonade</listing>
+           <option>Lemonade</option>
            <price>2.00</price>
         </item>
         <item>
-           <listing>Fanta</listing>
+           <option>Fanta</option>
            <price>1.80</price>
         </item>
 </category>
