@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+  <category name="Chesse Cake">
+     <item>
+        <listing>Mango Cheese Cake</listing>
+        <price>4.25</price>
+     </item>
+     <item>
+        <listing>Lemon Cheese Cake</listing>
+        <price>4.20</price>
+     </item>
+     <item>
+        <listing>Cookie Chesse Cake</listing>
+        <price>4.25</price>
+     </item>
+</category>
+<category name="Fresh Cake">
+      <item>
+        <listing>Oreo Fresh Cake</listing>
+        <price>4.80</price>
+      </item>
+      <item>
+        <listing>Red velvet Fresh Cake</listing>
+      <price>4.80</price>
+      </item>
+      <item>
+        <listing>Coccunt Fresh Cake</listing>
+      <price>4.80</price>
+      </item>
+</category>
+<category name="Muffin">
+      <item>
+         <listing>Corn Muffin</listing>
+         <price>4.00</price>
+      </item>
+      <item>
+          <listing>Blueberry Muffin</listing>
+          <price>4.00</price>
+       </item>
+</category>
+<category name="Mousse">
+       <item>
+          <listing>Mini Triple Chocolate Mousse</listing>
+          <price>2.50</price>
+       </item>
+       <item>
+           <listing>Mini Raspberry Mousse</listing>
+           <price>2.50</price>
+       </item>
+ </category>
+<category name="Iced Cream">
+       <item>
+            <listing>Mango</listing>
+            <price>1.80</price>
+       </item>
+       <item>
+            <listing>Vanila</listing>
+            <price>1.80</price>
+        </item>
+        <item>
+            <listing>Chocolate</listing>
+            <price>1.80</price>
+        </item>
+</category>
+<category name="Drinks">
+        <item>
+           <listing>Coke</listing>
+        <price>1.50</price>
+        </item>
+        <item>
+           <listing>Lemonade</listing>
+           <price>2.00</price>
+        </item>
+        <item>
+           <listing>Fanta</listing>
+           <price>1.80</price>
+        </item>
+</category>
+</menu>
