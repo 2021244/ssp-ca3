@@ -22,7 +22,7 @@
 								<input name="item0" type="checkbox" />
 							</td>
 							<td>
-								<xsl:value-of select="listing" />
+								<xsl:value-of select="option" />
 							</td>
 							<td align="right">
 								<xsl:value-of select="price" />
