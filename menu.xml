@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu>
   <category name="Chesse Cake">
-     <item>
-        <option>Mango Cheese Cake</option>
-        <price>4.25</price>
-     </item>
-     <item>
-        <option>Lemon Cheese Cake</option>
-        <price>4.20</price>
-     </item>
-     <item>
-        <option>Cookie Chesse Cake</option>
-        <price>4.25</price>
-     </item>
-</category>
-<category name="Fresh Cake">
-      <item>
-        <option>Oreo Fresh Cake</option>
-        <price>4.80</price>
-      </item>
-      <item>
-        <option>Red velvet Fresh Cake</option>
+    <item>
+      <option>Mango Cheese Cake</option>
+      <price>4.25</price>
+    </item>
+    <item>
+      <option>Lemon Cheese Cake</option>
+      <price>4.20</price>
+    </item>
+    <item>
+      <option>Cookie Chesse Cake</option>
+      <price>4.25</price>
+    </item>
+    </category>
+  <category name="Fresh Cake">
+    <item>
+      <option>Oreo Fresh Cake</option>
       <price>4.80</price>
-      </item>
-</category>
-<category name="Muffin">
-      <item>
-         <option>Corn Muffin</option>
-         <price>4.00</price>
-      </item>
-      <item>
-          <option>Blueberry Muffin</option>
-          <price>4.00</price>
-       </item>
-</category>
-<category name="Mousse">
-       <item>
-          <option>Mini Triple Chocolate Mousse</option>
-          <price>2.50</price>
-       </item>
-       <item>
-           <option>Mini Raspberry Mousse</option>
-           <price>2.50</price>
-       </item>
- </category>
-<category name="Drinks">
-        <item>
-           <option>Coke</option>
-        <price>1.50</price>
-        </item>
-        <item>
-           <option>Lemonade</option>
-           <price>2.00</price>
-        </item>
-        <item>
-           <option>Fanta</option>
-           <price>1.80</price>
-        </item>
-</category>
+    </item>
+    <item>
+      <option>Red velvet Fresh Cake</option>
+      <price>4.80</price>
+    </item>
+  </category>
+  <category name="Muffin">
+    <item>
+      <option>Corn Muffin</option>
+      <price>4.00</price>
+    </item>
+    <item>
+      <option>Blueberry Muffin</option>
+      <price>4.00</price>
+    </item>
+  </category>
+  <category name="Mousse">
+    <item>
+      <option>Mini Triple Chocolate Mousse</option>
+      <price>2.50</price>
+    </item>
+    <item>
+      <option>Mini Raspberry Mousse</option>
+      <price>2.50</price>
+    </item>
+  </category>
+  <category name="Drinks">
+    <item>
+      <option>Coke</option>
+      <price>1.50</price>
+    </item>
+    <item>
+      <option>Lemonade</option>
+      <price>2.00</price>
+    </item>
+    <item>
+      <option>Fanta</option>
+      <price>1.80</price>
+    </item>
+  </category>
 </menu>
