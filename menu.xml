@@ -13,7 +13,7 @@
       <option>Cookie Chesse Cake</option>
       <price>4.25</price>
     </item>
-    </category>
+  </category>
   <category name="Fresh Cake">
     <item>
       <option>Oreo Fresh Cake</option>
@@ -23,7 +23,7 @@
       <option>Red velvet Fresh Cake</option>
       <price>4.80</price>
     </item>
-  </category>
+    </category>
   <category name="Muffin">
     <item>
       <option>Corn Muffin</option>
